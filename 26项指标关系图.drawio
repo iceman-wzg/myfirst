@@ -1,29 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T10:00:21.163Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0" etag="dHChNJ55S3y4PS9xQszC" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:20:21.685Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0" etag="W8xX45pMSKk4Z9NDXBs4" version="23.0.2" type="github">
   <diagram name="第 1 页" id="kpXX1uZpGzhVCskZK_Ff">
-    <mxGraphModel dx="551" dy="1144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2155" dy="2001" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cXS16R5JkKt7hnEGMYDl-2" value="&lt;h1&gt;上诉率&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标公式】二审新收案件数 / 一审结案数&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标口径】&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;二审新收案件数 = 【上级法院+本院（辖区）】二审新收案件数，且二审的原一审案件法院为【本院（辖区）】。&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;一审结案数 = 同一审裁判被改判率分母&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="647" y="-478" width="400" height="220" as="geometry" />
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1348" y="1" width="572" height="572" as="geometry" />
         </mxCell>
-        <mxCell id="cXS16R5JkKt7hnEGMYDl-3" value="&lt;h1&gt;一审裁判被改判率&lt;/h1&gt;&lt;p&gt;【指标公式】一审裁判被二审改判数 / 一审结案数&lt;/p&gt;&lt;p&gt;【指标口径】&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;一审裁判被二审改判数=【上级法院+本院（辖区）】二审已结案件且案件的结案方式为“改判、改判（含变更源判决）、撤销原裁定并指令受（审）理、撤销原判并驳回起诉、委赔（撤销原决定并决定赔偿、变更原决定、撤销原决定并驳回申请、撤销原决定并指令赔偿义务法院作出决定）”。&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;一审结案数 = 【本院（辖区）】一审已结案件且案件的结案方式不含“移送其他法院管辖、裁定移送其他法院管辖、被上级法院提级管辖、被指定其他法院管辖、移交下级法院管辖”。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;dashed=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="647" y="-238" width="400" height="220" as="geometry" />
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-11" value="9.司法赔偿率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="36" y="204" width="146" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="cXS16R5JkKt7hnEGMYDl-4" value="&lt;h1&gt;一审裁判被发回重审率&lt;/h1&gt;&lt;p&gt;【指标公式】一审裁判被二审发回重审数 / 一审结案数&lt;/p&gt;&lt;p&gt;【指标口径】&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;一审裁判被二审改判数=【上级法院+本院（辖区）】二审已结案件且案件的结案方式为“发回重审”。&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;一审结案数 = 同一审裁判被改判率分母&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;dashed=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="657" y="12" width="400" height="220" as="geometry" />
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-14" value="1.案-件比" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1534" y="187" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="cXS16R5JkKt7hnEGMYDl-5" value="&lt;h1&gt;申诉申请再审率&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标公式】申诉申请再审新收案件数 / 生效案件数&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标口径】&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;申诉申请再审收案数 = 【上级法院+本院（辖区）】申诉申请再审新收案件且案件的原生效裁判为【本院（辖区）】。&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;生效案件数 = 同生效裁判被改判率分母&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="119" y="-508" width="400" height="220" as="geometry" />
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-15" value="10.二审开庭率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="202" width="146" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="cXS16R5JkKt7hnEGMYDl-6" value="&lt;h1&gt;生效裁判被改判率&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标公式】生效裁判被再审改判数 / 生效案件数&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标口径】&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;生效裁判被再审改判数 = 【上级法院+本院（辖区）】再审已结案件且案件的结案方式为“改判、撤销原裁定并指令受（审）理、撤销原判并驳回起诉、委赔提（撤销原决定并决定赔偿、变更原决定、撤销原决定并驳回申请）、委赔再（撤销原决定并决定赔偿、变更原决定、撤销原决定并驳回申请）”。&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;生效案件数 = 一审已结-二审新收+二审已结-二审发回&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="-275" width="400" height="220" as="geometry" />
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.935;entryY=0.797;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="cXS16R5JkKt7hnEGMYDl-16" target="cXS16R5JkKt7hnEGMYDl-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXS16R5JkKt7hnEGMYDl-7" value="&lt;h1&gt;生效裁判被发回重审率&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标公式】生效裁判被再审发回重审数 / 生效案件数&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标口径】&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;生效裁判被再审发回重审数 = 【上级法院+本院（辖区）】再审已结案件且结案方式为“发回重审”。&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;生效案件数 = 同生效裁判被改判率分母&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="-29" width="400" height="220" as="geometry" />
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="cXS16R5JkKt7hnEGMYDl-16" target="cXS16R5JkKt7hnEGMYDl-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXS16R5JkKt7hnEGMYDl-8" value="&lt;h1&gt;裁定再审率&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标公式】（本院决定再审数 + 本院提审数 + 指令再审数 +指定再审数） / 申诉、申请再审审查案件结案数&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;【指标口径】&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;（本院决定再审数 + 本院提审数 + 指令再审数 +指定再审数） = 【上级法院+本院（辖区）】再审审查已结案件且结案方式为“本院再审、本院提审、指令原审法院再审、指定其他法院再审、委赔监（指令下级法院受理、本院决定重新审理、指令重审审理、本院决定直接审理）。&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;申诉、申请再审审查案件结案数 = 【本院（辖区）】申诉、申请再审审查已结案件。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="258" width="400" height="220" as="geometry" />
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-16" value="2.上诉率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1561" y="-76" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-17" value="11.再审审查询问（听证）率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="420" y="206" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-18" value="3.一审裁判被改判率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1473" y="-202" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-19" value="12.执行完毕率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="624" y="204" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-20" value="4.一审裁判被发回重审率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1666" y="-208" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-21" value="25.案-访比" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="46" y="540" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-22" value="17.超12个月未结案件比" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="362" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-23" value="26.司法建议反馈率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="538" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-24" value="18.法官人均结案数" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="244" y="360" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-26" value="19.上诉案件移送时间" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="424" y="364" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-28" value="20.诉前调解成功分流率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="628" y="362" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-29" value="13.首执案件终本率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="846" y="214" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;" edge="1" parent="1" source="cXS16R5JkKt7hnEGMYDl-30" target="cXS16R5JkKt7hnEGMYDl-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;entryX=0.01;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cXS16R5JkKt7hnEGMYDl-30" target="cXS16R5JkKt7hnEGMYDl-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;" edge="1" parent="1" source="cXS16R5JkKt7hnEGMYDl-30" target="cXS16R5JkKt7hnEGMYDl-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-30" value="5.申诉申请再审率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1786" y="44" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-31" value="14.审限内结案率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="84" y="-236" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-32" value="6.裁定再审率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1969" y="127" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-33" value="15.延长审限率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="264" y="-232" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-34" value="7.生效裁判被改判率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1852" y="-116" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-35" value="16.平均结案时间" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="468" y="-234" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-36" value="8.生效裁判被发回重审率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1969" y="-12" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-38" value="21.调解率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="850" y="372" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-40" value="22.诉前调解案件申请执行率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="88" y="-78" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-42" value="23.民事裁判申请执行率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="268" y="-74" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="cXS16R5JkKt7hnEGMYDl-44" value="24.执行到位率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="472" y="-76" width="146" height="146" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
